@@ -1,0 +1,28 @@
+/* Notification component styles */
+.notify-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .notifications {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .notification-item {
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+  }
+  
+  .notification-item:nth-child(even) {
+    background-color: #e0e0e0;
+  }
+  
+  .notification-text {
+    font-size: 16px;
+    color: #333;
+  }
+  
