@@ -20,3 +20,10 @@
 
 ## Run on Localhost
 - Follow given instruction on the terminal:
+```bash
+git clone https://github.com/nandeshboyz024/Social-Media-Wall.git
+cd Social-Media-Wall
+npm install
+npm start
+```
+Go to http://localhost:3000 in your browser and try the demo.
